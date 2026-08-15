@@ -1,1 +1,8 @@
+insightface
+onnxruntime-gpu
+opencv-python
+matplotlib
+scikit-learn
+gdown
+pillow
 
